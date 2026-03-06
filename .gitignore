@@ -1,0 +1,7 @@
+.env
+token_cache.bin
+processed_ids.txt
+response.json
+
+folder_ids.txt
+details.txt
